@@ -29,4 +29,5 @@ Un ami m’a conseillé de voyager, de changer de ville, de pays. Cette idée es
 
 Alors, un grand merci à ces quelques amis qui m’ont soutenu dès que je leur ai parlé, ils ne m’ont pas tourné le dos dans ces moments difficiles. On dit souvent que dans les épreuves, on perd des personnes, et ça a été vrai pour moi. Mais à l’inverse, beaucoup d’autres sont venus vers moi, m’ont encouragé et soutenu. Lorsque je leur ai parlé de mon projet de voyage, ils ont été super content pour moi, enthousiastes, curieux, et m’ont encouragé à tenir un journal de bord. Je réalise aujourd’hui que c’est une véritable chance, et c’est ce que je retiens de cette période. Je pars vraiment soulagé de savoir que cette période compliquée est derrière moi, même si je dois encore apprendre à mieux gérer mes émotions.
 
-
+> Photo de <a href="https://unsplash.com/fr/@weirick?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jake Weirick</a> sur <a href="https://unsplash.com/fr/photos/voie-lactee-0fhQYNv2nzE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
