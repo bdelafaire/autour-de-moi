@@ -5,6 +5,7 @@ description: Paradoxalement, il est écrit comme s'il était destiné à ne jama
 image: pencils.jpg
 categories:
     - personnal thoughts
+    - my trip
 tags: 
     - trip
     - thoughts

@@ -5,6 +5,7 @@ description: Passons un moment sur ce qui m'a poussé à partir
 image: sky_stars.jpg
 categories:
     - personnal thoughts
+    - my trip
 tags: 
     - trip
     - thoughts
