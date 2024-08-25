@@ -4,7 +4,7 @@ live : https://bdelafaire.github.io/autour-de-moi/
 
 # Welcome on my personna
 
-Hey, my name is Baptiste, I'm a 25 year old software engineer, who left everything to travel around the world.
+Hey, my name is Baptiste, I'm a 26 year old software engineer, who left everything to travel around the world.
 
 # What will you find on this blog
 
