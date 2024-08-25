@@ -10,6 +10,10 @@ Hey, my name is Baptiste, I'm a 25 year old software engineer, who left everythi
 
 ## Personnal Thoughts
 
+ - [A propos de ce blog](https://bdelafaire.github.io/autour-de-moi/p/a-propos-de-ce-blog/) : Paradoxalement, il est écrit comme s'il était destiné à ne jamais être lu.
+ - [Pourquoi je suis parti](https://bdelafaire.github.io/autour-de-moi/p/pourquoi-je-suis-parti/) : Passons un moment sur ce qui m'a poussé à partir
+ 
+ 
 ## My life
 
 ## My trip around the world
