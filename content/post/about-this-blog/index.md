@@ -1,7 +1,7 @@
 ---
 title: A propos de ce blog
 date: 2024-08-10
-description: Paradoxalement, il est écrit comme s'il était destiné à ne jamais être lu.
+description: Écrit comme s'il était destiné à ne jamais être lu.
 image: pencils.jpg
 categories:
     - personnal thoughts

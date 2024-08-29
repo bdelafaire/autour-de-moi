@@ -1,7 +1,7 @@
 ---
 title: Pourquoi je suis parti
 date: 2024-08-15
-description: Passons un moment sur ce qui m'a poussé à partir 
+description: Partager les raisons qui m'ont poussé à tout quitter pour partir en voyage.
 image: sky_stars.jpg
 categories:
     - personnal thoughts
