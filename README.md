@@ -16,6 +16,8 @@ Hey, my name is Baptiste, I'm a 26 year old software engineer, who left everythi
  
 ## My life
 
+- [Ma maman](http://localhost:1313/autour-de-moi/p/ma-maman/) : Partager les raisons qui m'ont poussé à tout quitter pour partir en voyage.
+
 ## My trip around the world
 
 
