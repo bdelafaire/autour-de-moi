@@ -2,18 +2,17 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
-
+favicon = "appareil-photo.png"
 [footer]
 since = 2020
 customText = ""
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "Aug 02, 2024"
+lastUpdated = "Sep 07, 2024 15:04 MST"
 
 [sidebar]
-emoji = "<3"
+emoji = "🎒"
 subtitle = "Hey, I'm a 26-year-old software engineer who left everything behind to travel around the world."
 
 [sidebar.avatar]
