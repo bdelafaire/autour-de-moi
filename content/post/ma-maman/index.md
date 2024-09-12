@@ -37,7 +37,7 @@ Et puis un jour je suis allé chez mon papa et on a décidé de regardé de viei
 
 Des enfants... J’ai réalisé que tout cela, ce sont des enfants qui l’ont vécu. Mes parents n’étaient pas bien plus âgés que moi quand ils se sont mariés. Ils ont traversé des épreuves terribles, presque insoutenables, et pourtant, avant d'être des parents, ils étaient simplement des enfants. Cette prise de conscience m'a frappé en plein cœur. J'ai réalisé que toutes ces années, j'avais refoulé beaucoup de choses, sans jamais vraiment en parler à personne. À vrai dire, personne ne s'y est vraiment intéressé non plus.
 
-Ces derniers jours, j’ai ressenti le besoin d’écrire, pour essayer de mieux me comprendre et mettre des mots sur ce que je ressens. Honnêtement, je ne suis pas sûr d'y être totalement parvenu. Je crois que cette prise de conscience n'est pas annodine. Elle vient à un moment de ma vie ou je remet énormément de chose en question et dans ces moments 
+Ces derniers jours, j’ai ressenti le besoin d’écrire, pour essayer de mieux me comprendre et mettre des mots sur ce que je ressens. Honnêtement, je ne suis pas sûr d'y être totalement parvenu. Je crois que cette prise de conscience n'est pas annodine. Elle vient à un moment de ma vie ou je remet énormément de chose en question.
 
 Je risque de beaucoup modifier ce blog dans les prochains jours. Mais je tiens à le publier tel quel. C'est ma manière d'essayer de comprendre et de raconter mon histoire.
 
