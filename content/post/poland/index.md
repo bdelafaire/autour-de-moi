@@ -1,6 +1,6 @@
 ---
 title: La Pologne
-date: 2024-09-30
+date: 2024-09-16
 description: Baptiste au pays des Sarmates 
 image: poland.jpg
 categories:
@@ -13,6 +13,8 @@ tags:
 J'ai voulu que la Pologne soit le premier pays à visiter, pour des raisons plutôt arbitraire. 
 
 # Cracovie
+
+## 16 Septembre
 
 # Varsovie
 

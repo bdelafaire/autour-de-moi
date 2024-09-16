@@ -7,6 +7,7 @@ categories:
     - my trip
 tags: 
     - trip
+    - poland
 ---
 
 Il est 4h37 Terminal 2D à Charles de Gaulle. l'excitation est présente, la fatigue, elle, est totale. J'ai hâte d'arriver à Cracovie, ma première destination. J'atterris à 9h, j'espère déposer mes affaires vers 11h à mon B&B. C'est une première journée assez chargée. Je vais essayer de me trouver un petit resto et ensuite visiter la place médiévale Rynek Główny de Cracovie. Je posterai ce soir quelques photos dans cet article. Je ferai surement un article dédié à la Pologne. 
