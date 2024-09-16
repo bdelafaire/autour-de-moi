@@ -1,6 +1,6 @@
 ---
 title: La Pologne
-date: 2024-09-15
+date: 2024-09-30
 description: Baptiste au pays des Sarmates 
 image: poland.jpg
 categories:
