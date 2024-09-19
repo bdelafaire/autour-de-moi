@@ -1,5 +1,5 @@
 ---
-title: La Pologne
+title: Krakow
 date: 2024-09-16
 description: Baptiste au pays des Sarmates 
 image: poland.jpg
@@ -11,8 +11,6 @@ tags:
 ---
 
 J'ai voulu que la Pologne soit le premier pays à visiter, pour des raisons plutôt arbitraire. 
-
-# Cracovie
 
 ## 16 Septembre
 
@@ -35,9 +33,10 @@ Dans un premier temps, j’ai visité la plus vieille synagogue d’Europe. Je n
 (Les photos arrivent)
 
 
+## 18 Septembre
 
-
-# Varsovie
+Aujourd'hui petite journée, je suis allé visiter le Chateau de Wavel, siège de la monarchie polonaise du XIème au XVIIème siècle. Le château surplombre Cracovie, la vue est magnifique ! 
+Je ne suis pas rentré très tard, une migraine commence à montrer le bout de son nez, et puis j'ai pas mal vadrouiller ces derniers jours, alors un beignet pomme caramel et je rentre me reposer.
 
 
 Photo de <a href="https://unsplash.com/fr/@destinationeu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andrea Anastasakis</a> sur <a href="https://unsplash.com/fr/photos/statue-dune-personne-devant-des-batiments-bruns-GZmxOByPubM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
