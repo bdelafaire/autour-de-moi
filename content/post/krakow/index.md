@@ -62,8 +62,6 @@ Le second camp, aujourd'hui entièrement détruit, servait de transition entre A
 
 Le troisième camp, Birkenau, est situé à quelques kilomètres du premier. C'est le camp d'extermination, bien plus vaste, composé de 300 baraques destinées à entasser les populations pour le travail. Seules les personnes jugées aptes au travail survivaient dans ce camp. Les vieillards, enfants, malades et handicapés étaient directement envoyés dans les chambres à gaz. Ces personnes ne survivaient pas plus de temps qu'il m'a fallu pour raconter ma journée ici. C'est terrifiant.
 
-![](auschwitz_entrance.jpg) ![](auschwitz_corridor.jpg) ![](auschwitz_shoes.jpg) ![](auschwitz_wagon.jpg)  
-
 Photo de <a href="https://unsplash.com/fr/@liliess?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lidia Stawinska</a> sur <a href="https://unsplash.com/fr/photos/une-devanture-de-magasin-avec-beaucoup-de-fenetres-dessus-JB_opqOtNlw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
   
