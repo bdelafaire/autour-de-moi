@@ -15,5 +15,12 @@ url = "https://github.com/bdelafaire/autour-de-moi"
 [social.params]
 icon = "brand-github"
 
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com/voyagesavecleb"
+
+[social.params]
+icon = "instagram"
 
 
