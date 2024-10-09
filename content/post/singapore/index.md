@@ -26,6 +26,24 @@ Je suis allé non loin de mon hôtel pour visiter Marina Bay, qui longe le détr
 
 ![](san_marina_bay_9.jpg) ![](san_marina_bay_10.jpg) ![](san_marina_bay_11.jpg) ![](san_marina_bay_12.jpg)
 
+
+# 7 Octobre
+
+Aujourd'hui, j'ai visité Little India et le quartier des bâtiments gouvernementaux, le "Civic District". Little India est vraiment un quartier à part, avec son ambiance à l'indienne, ses couleurs et son architecture unique. J'ai découvert un temple bouddhiste pour la première fois, c'était très charmant. Cependant, je ne suis pas resté longtemps, car des personnes étaient en train de prier, et enfin j'ai visité une mosqué à l'architecture typique indo-sarracène.
+
+Sur le chemin du retour vers mon hôtel, je suis passé par le "Civic District". J'y ai admiré le Parlement, le tribunal et le bâtiment des finances publiques. Ces édifices, bien que récents, sont impressionnants et se trouvent en plein cœur de Singapour.
+
+![](little_india_entrance.jpg) ![](budha_temple.jpg) ![](mosque.jpg) ![](singapore_parlement.jpg)
+
+# 8 & 9 Octobre
+
+Deux jours de repos, une otite a fait son apparition, et prendre l’avion dans cet état m’a un peu fait peur. J’ai donc évité de rester trop longtemps sous l’humidité de l’île, mais je suis quand même sorti me promener dans des parcs pour lire et me reposer. Je suis toujours impressionné par la verdure à Singapour. Je me doute que l’humidité y contribue énormément et limite les besoins en eau des plantes, mais la verdure est intégrée dès la conception des bâtiments, ce qui donne parfois des rendus incroyables.
+
+
+![](parc1.jpg) ![](parc2.jpg) ![](parc4.jpg) ![](parc3.jpg)
+
+
+
 Photo de <a href="https://unsplash.com/fr/@mikeenerio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mike Enerio</a> sur <a href="https://unsplash.com/fr/photos/baie-de-san-marina-singapour-7ryPpZK1qV8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
   
