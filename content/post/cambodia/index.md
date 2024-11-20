@@ -45,7 +45,6 @@ Le régime prit officiellement fin en 1979, mais ses séquelles subsistèrent ju
 Si ce sujet vous intrigue, je ne peux que vous recommander le film "D'abord, ils ont tué mon père", disponible sur Netflix. Il retrace cette période de manière poignante et offre un éclairage précieux sur la résilience incroyable du Cambodge.
 
 
-, la capitale a été la première victime des Khmers rouges
 
 Photo de <a href="https://unsplash.com/fr/@daniellienert?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Lienert</a> sur <a href="https://unsplash.com/fr/photos/temple-en-beton-avec-racine-darbre-sur-le-dessus-LAI8am-RdVM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
