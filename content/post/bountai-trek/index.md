@@ -1,5 +1,5 @@
 ---
-title: Trek de 3 jour a Bountai
+title: Trek de 3 jours a Bountai
 date: 2024-12-12
 description: 3 jours perdu dans le Phongsaly
 image: bountai_trek.jpg
