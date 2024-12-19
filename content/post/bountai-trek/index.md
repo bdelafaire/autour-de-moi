@@ -30,6 +30,10 @@ Le soir venu, mes amis arrivent enfin. Nous nous retrouvons au restaurant du vil
 
 Quand il est temps d’aller dormir, je sais que la nuit sera courte. Les bières m’ont laissé un sacré mal de crâne. Mais qu’importe, cette soirée en valait chaque goutte !
 
+![départ à 5h00](bangkok_aeroport.jpg) ![Départ pour Bountai](depart_pour_bountai.jpg) ![un bus (trop) plein](un_bus_plein.jpg) ![morning view](morning_view.jpg)
+
+![veille de départ](veille_de_depart.jpg)
+
 
 # La Team
 
@@ -39,7 +43,7 @@ Avant de partir, je vous présente la Team :
 
 **Vincenzo**, un Italien, est médecin officier dans la marine italienne. Probablement le militaire le plus fainéant du monde, mais aussi l’une des personnes les plus douces et gentilles que j’ai jamais rencontrées. Un exemple de calme et de bienveillance. Il est également très drôle et apprend les langues avec une rapidité qui m’étonne. Il veut devenir psychologue, et je suis sûr qu’il en sera un excellent. Vincenzo, Eline et moi avons traversé des périodes compliquées cette année. C’est rassurant de voir que tout le monde, que ce soit un militaire chevronné ou une jeune femme belge pleine d’énergie, a ses propres démons.
 
-**Mako & Pedro**, un couple franco-arménien fraîchement marié et en lune de miel, sont adorables. Ils se cachent pour s’embrasser, et c’est trop mignon. Marguarita est super gentille, avec un caractère bien trempé. Je lui pose beaucoup de questions sur l’Arménie, et elle donne une superbe image de son pays. J’aimerais beaucoup y aller l’année prochaine. Pierre, quant à lui, a un tempérament posé, mais il est tout aussi gentil et drôle.
+**Marguarita alias Mako & Pedro**, un couple franco-arménien fraîchement marié et en lune de miel, sont adorables. Ils se cachent pour s’embrasser, et c’est trop mignon. Marguarita est super gentille, avec un caractère bien trempé. Je lui pose beaucoup de questions sur l’Arménie, et elle donne une superbe image de son pays. J’aimerais beaucoup y aller l’année prochaine. Pierre, quant à lui, a un tempérament posé, mais il est tout aussi gentil et drôle.
 
 **Eline** est la personne qui m’a proposé de faire ce trek. C’est une jeune femme belge pleine d’énergie, du genre à faire des treks de 100 kilomètres. Je l’ai rencontrée à Vientiane avant mon départ pour la Thaïlande, et on rigole bien ensemble. Elle fait partie des belles rencontres de ce voyage. Elle m’inspire à continuer ce genre d’activités et à aller à la rencontre des gens.
 
@@ -47,7 +51,7 @@ Avant de partir, je vous présente la Team :
 
 ## Dans la jungle, terrible jungle...
 
-Ça y est, c'est le départ. On se retrouve tous pour faire quelques achats, dont des fruits pour la route et des fournitures scolaires pour les enfants du second village que nous visiterons. On nous emmène à l'orée de la jungle en 4x4, une expérience secouante mais néanmoins très marrante. Une fois déposés, nous commençons la marche et nous arrêtons rapidement devant un champ de coriandre où nous récoltons quelques brins — pas franchement appétissants, d'ailleurs.
+Ça y est, c'est le départ. On se retrouve tous pour faire quelques achats, dont des fruits pour la route et des fournitures scolaires pour les enfants du second village que nous visiterons. On nous emmène à l'orée de la jungle en 4x4, une expérience secouante mais néanmoins très marrante. Une fois déposés, nous commençons la marche et nous arrêtons rapidement devant un champ de coriandre où nous récoltons quelques brins, à en vomir pour ceux qui me connaissent.
 
 Après une petite heure de marche, nous faisons une pause déjeuner. Il est 11 h, et notre guide préfère que nous ayons le ventre plein avant d'attaquer l'ascension de la jungle, qui s'annonce ardue. Nous nous arrêtons dans un abri de paysan pour préparer le repas. Entre le feu, la recherche de papaye, de feuilles de bananier et de laitue dans la jungle pour la soupe, et la vaisselle, tout le monde s'active. C'est impressionnant de voir à quel point tout ce dont on a besoin peut être trouvé dans la nature. Cela dit, pour ce premier repas, on triche un peu : la mère de notre guide, Oun, nous a préparé du porc mariné avec du riz, en complément de la soupe. Un vrai régal. Peut-être un peu trop, car je commets l'erreur de me laisser aller à la gourmandise.
 
