@@ -117,7 +117,7 @@ Vient alors la préparation du déjeuner. Un feu est allumé, et Adone coupe des
 
 Je comprends pourquoi ils tombent rarement malades : entre l’effort physique constant et leurs repas simples mais équilibrés, leur mode de vie semble bien réglé. L’espérance de vie ici est de 75 ans, ce qui est plutôt élevé. Mais je suppose que la mortalité infantile reste importante, et les problèmes dentaires doivent être fréquents dans ces villages reculés.
 
-![](fish1.jpg) ![](fish2.jpg) ![](fish3.jpg) ![](bed.jpg)
+![](fish1.jpg) ![](fish2.jpg) ![](fish3.jpg) ![](fish4.jpg)
 
 ### sur ma route, oui...
 
