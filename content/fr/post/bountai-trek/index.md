@@ -10,7 +10,7 @@ tags:
     - Lao
 ---
 
-# Prelude
+## Prelude
 
 Jour de départ pour Bountai. Je suis à Bangkok, à plus de 1100 kilomètres de ma destination, et une longue journée m'attend : un avion, un train, et un bus.
 
@@ -35,7 +35,7 @@ Quand il est temps d’aller dormir, je sais que la nuit sera courte. Les bière
 ![veille de départ](veille_de_depart.jpg)
 
 
-# La Team
+## La Team
 
 Avant de partir, je vous présente la Team :
 
@@ -47,9 +47,9 @@ Avant de partir, je vous présente la Team :
 
 **Eline** est la personne qui m’a proposé de faire ce trek. C’est une jeune femme belge pleine d’énergie, du genre à faire des treks de 100 kilomètres. Je l’ai rencontrée à Vientiane avant mon départ pour la Thaïlande, et on rigole bien ensemble. Elle fait partie des belles rencontres de ce voyage. Elle m’inspire à continuer ce genre d’activités et à aller à la rencontre des gens.
 
-# Premier Jour
+## Premier Jour
 
-## Dans la jungle, terrible jungle...
+### Dans la jungle, terrible jungle...
 
 Ça y est, c'est le départ. On se retrouve tous pour faire quelques achats, dont des fruits pour la route et des fournitures scolaires pour les enfants du second village que nous visiterons. On nous emmène à l'orée de la jungle en 4x4, une expérience secouante mais néanmoins très marrante. Une fois déposés, nous commençons la marche et nous arrêtons rapidement devant un champ de coriandre où nous récoltons quelques brins, à en vomir pour ceux qui me connaissent.
 
@@ -61,7 +61,7 @@ Enfin, à la lisière de la forêt, nous atteignons des champs de riz récoltés
 
 À la tombée de la nuit, nous arrivons enfin au premier village, un hameau sur pilotis avec des maisons principalement en bois. Nous nous dirigeons vers la maison du chef, où nous passerons la nuit.
 
-## La première nuit
+### La première nuit
 
 Le village porte le nom de Nam Khoun et le chef s'appelle Boun Mai avec sa femme Lin. Ils nous offrent un thé de bienvenue. Après de brefs échanges de sourires, nous partons à la douche. Naïf que je suis, Adone m'avait fait miroiter pendant la montée une douche bien chaude. Je suis pressé de me décrasser, mais en arrivant à la rivière, je déchante vite : l'eau est glaciale. Je me rends compte que je suis vraiment trop naïf, typiquement un touriste.
 
@@ -73,9 +73,9 @@ Il est temps de dormir, il doit être 22 h. Cependant, le chef m'invite avec Vin
 
 Enfin, il est temps d’aller au lit. Nous dormons dans la pièce principale avec le chef et sa famille : nous sommes bien une douzaine. Demain est une grosse journée : nous partons à la PÊCHE !
 
-# Deuxième Jour
+## Deuxième Jour
 
-## Le levé
+### Le levé
 
 Je ne vais pas beaucoup dormir cette nuit-là, mais pas forcément à cause de l’inconfort. Je me lève vers 5 h du matin pour profiter du lever du soleil et observer le village s’éveiller doucement. Les premières lueurs apparaissent à 5 h 30, alors que les femmes commencent à préparer le riz pour le petit-déjeuner.
 
@@ -85,7 +85,7 @@ En retournant à la rivière, nous découvrons la principale source d’électri
 
 Le petit-déjeuner est copieux : des restes du repas de la veille. Depuis le premier repas, je fais attention à manger de manière raisonnable. À vrai dire, c’est l’un des objectifs de ce voyage : me débarrasser de mes addictions, que ce soit à la nourriture ou à Internet. Ce matin, ils ont tué une poule spécialement pour nous : elle sera préparée pour le déjeuner, accompagnant les fruits de notre pêche.
 
-## La pèche
+### La pèche
 
 Direction la rivière en amont pour pêcher et préparer notre déjeuner. Après environ 45 minutes de marche, nous trouvons un endroit où la rivière se divise en deux cours d’eau qui se rejoignent plus loin. C’est un élément clé : nous allons assécher l’un des bras pour attraper les poissons à mains nues.
 
@@ -99,7 +99,7 @@ Vient alors la préparation du déjeuner. Un feu est allumé, et Adone coupe des
 
 Je comprends pourquoi ils tombent rarement malades : entre l’effort physique constant et leurs repas simples mais équilibrés, leur mode de vie semble bien réglé. L’espérance de vie ici est de 75 ans, ce qui est plutôt élevé. Mais je suppose que la mortalité infantile reste importante, et les problèmes dentaires doivent être fréquents dans ces villages reculés.
 
-## sur ma route, oui...
+### sur ma route, oui...
 
 Une fois le déjeuner terminé, nous faisons nos adieux au chef et à sa famille, puis nous reprenons la route vers le prochain village. Le sentier, bien que sinueux et vallonné, est incroyablement beau et agréable. J’ai vraiment adoré cette marche.
 
@@ -113,7 +113,7 @@ Un peu hésitants au début, nous finissons par y aller un par un. Ce fut un mom
 
 Allez, c’est reparti ! Direction le village, qui n’est plus qu’à une petite demi-heure de marche.
 
-## Le village
+### Le village
 
 Nous arrivons au village de Pouli Mai, accueillis par des dizaines d’enfants curieux et souriants. Contrairement au premier village, Pouli Mai est bien plus grand, avec une population de 630 habitants, bien qu’il n’y ait pas d’eau courante. En traversant le village, nous arrivons à la maison du chef, Atchou, qui nous reçoit chaleureusement avec un verre d’eau bouillie.
 
@@ -125,7 +125,7 @@ Avant de nous coucher, nous passons un moment à échanger avec le chef. Il prop
 
 Il est temps d’aller dormir. Il doit être environ 21 heures, un horaire tôt pour moi, mais ici, le rythme du village est calqué sur celui du soleil. La nuit, bien que courte, est agréable et paisible.
 
-# Troisième Jour
+## Troisième Jour
 
 Lever aux aurores avec le reste du groupe. Nous avons tous plutôt bien dormi, mais Enzo n’est pas dans un état incroyable avec son orteil, même s’il se sent apte à marcher. Il ne dit jamais non, un vrai militaire. Un petit déjeuner copieux nous attend : poulet et riz, un classique indémodable.
 
@@ -137,7 +137,7 @@ Nous reprenons la route, une bonne journée de marche à travers les magnifiques
 
 On continue notre chemin à travers les montagnes. Tout le monde reste souriant et content, je trouve. Après encore deux heures, nous arrivons enfin au point de rendez-vous avec le véhicule qui nous ramène. À vrai dire, j’aurais bien continué à marcher pour profiter de la vue, mais les douleurs aux pieds commencent à se faire sentir, et les blessures dans l’équipe n’aident pas. Du coup, nous sommes plutôt contents de rentrer. 
 
-## Chez Adone et le départ
+### Chez Adone et le départ
 
 Il nous faut bien 45 minutes pour retourner à Boun Tai. Une fois arrivés à notre destination, chacun est déposé à sa guesthouse. Une bonne douche (si l’eau veut bien suivre !) et direction chez Adone pour le dîner. Nous avons hâte… mais plus d'eau, donc pas de douche.
 

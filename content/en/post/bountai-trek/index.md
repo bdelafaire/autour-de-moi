@@ -10,7 +10,7 @@ tags:
     - Lao
 ---
 
-# Prelude
+## Prelude
 
 Departure day for Bountai. I’m in Bangkok, over 1,100 kilometers from my destination, and a long day awaits: a plane, a train, and a bus.
 
@@ -35,7 +35,7 @@ When it’s time to sleep, I know the night will be short. The beers have left m
 ![veille de départ](veille_de_depart.jpg)
 
 
-# The Team
+## The Team
 
 Before setting off, let me introduce the team:
 
@@ -48,9 +48,9 @@ Before setting off, let me introduce the team:
 **Eline** is the one who suggested I join this trek. She’s a lively young Belgian woman with boundless energy, the type to tackle 100-kilometer treks. I met her in Vientiane before my trip to Thailand, and we share plenty of laughs. She’s one of the great connections I’ve made on this journey. She inspires me to keep doing these kinds of activities and meeting new people.
 
 
-# First Day
+## First Day
 
-## Into the Jungle, the Mighty Jungle...
+### Into the Jungle, the Mighty Jungle...
 
 Here we go, it’s departure time. We all meet up to grab a few things, including fruits for the road and school supplies for the children in the second village we’ll visit. A bumpy but fun 4x4 ride takes us to the edge of the jungle. Once dropped off, we start walking and quickly stop by a coriander field to pick a few sprigs—enough to make anyone who knows me gag.
 
@@ -63,7 +63,7 @@ Finally, at the forest’s edge, we reach rice fields that were harvested a few 
 As night falls, we finally arrive at the first village, a stilted hamlet with mostly wooden houses. We head to the chief’s house, where we’ll spend the night.
 
 
-## The First Night
+### The First Night
 
 The village is called Nam Khoun, and the chief’s name is Boun Mai, along with his wife Lin. They welcome us with a cup of tea. After brief exchanges of smiles, we head to take a shower. Naively, I had been looking forward to the hot shower Adone had promised during the climb. Eager to freshen up, I quickly realize I’ve been too gullible. Upon reaching the river, I’m greeted by ice-cold water. A classic tourist mistake.
 
@@ -76,9 +76,9 @@ It’s time to sleep—it must be around 10 p.m. However, the chief invites Vinc
 Finally, it’s time to call it a night. We sleep in the main room with the chief and his family—about a dozen of us in total. Tomorrow will be a big day: we’re going FISHING!
 
 
-# Second Day
+## Second Day
 
-## Sunrise
+### Sunrise
 
 I didn’t get much sleep that night, though not necessarily because of discomfort. I wake up around 5 a.m. to enjoy the sunrise and watch the village slowly come to life. The first light appears at 5:30, as the women begin preparing rice for breakfast.
 
@@ -88,7 +88,7 @@ Heading back to the river, we discover the village’s primary source of electri
 
 Breakfast is hearty, consisting of leftovers from the previous night’s meal. Since the first dinner, I’ve been careful to eat more moderately. In fact, one of my goals for this trip is to overcome my addictions, whether to food or the Internet. This morning, they’ve killed a chicken especially for us. It will be prepared for lunch to accompany the fruits of our fishing trip.
 
-## Fishing
+### Fishing
 
 We head upstream to the river to fish and prepare our lunch. After about 45 minutes of walking, we find a spot where the river splits into two streams that reconnect further down. This is key: we’ll dry up one of the branches to catch fish by hand.
 
@@ -102,7 +102,7 @@ Then comes lunch preparation. A fire is lit, and Adone cuts pieces of bamboo to 
 
 I understand why they rarely fall ill: between their constant physical activity and simple but balanced meals, their lifestyle seems well-suited to maintaining health. The life expectancy here is around 75 years, which is relatively high. However, I imagine infant mortality rates are still significant, and dental issues must be common in these remote villages.
 
-## On My Way
+### On My Way
 
 After lunch, we bid farewell to the chief and his family, then set off toward the next village. The path, though winding and hilly, is breathtakingly beautiful and pleasant. I truly enjoyed this walk.
 
@@ -116,7 +116,7 @@ Initially hesitant, we eventually took turns under the jet. It turned into a fun
 
 Alright, let’s go! The village is now just a short half-hour walk away.
 
-## The Village
+### The Village
 
 We arrive at the village of Pouli Mai, greeted by dozens of curious and smiling children. Unlike the first village, Pouli Mai is much larger, with a population of 630 inhabitants, though it lacks running water. As we make our way through the village, we reach the home of the chief, Atchou, who warmly welcomes us with a glass of boiled water.
 
@@ -142,7 +142,7 @@ We set off again, with a good day of hiking through the magnificent landscapes o
 We carry on through the mountains. Everyone remains cheerful and content, I think. After another two hours, we finally reach the rendezvous point with the vehicle that will take us back. Honestly, I would have liked to keep walking to enjoy the view, but the pain in my feet is becoming noticeable, and the injuries within the team don't help. So, we're all quite happy to head back.
 
 
-## At Adone's and the Departure
+### At Adone's and the Departure
 
 It takes us a good 45 minutes to return to Boun Tai. Once we arrive at our destination, we're dropped off at our guesthouses. A nice shower (if the water decides to cooperate!) and then it's off to Adone's for dinner. We can’t wait... but no more water, so no shower.
 
