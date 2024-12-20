@@ -43,19 +43,19 @@ Before setting off, let me introduce the team:
 
 **Adone**, our local guide, is a journalist in the region. He is responsible for delivering news to Bountai and is paid by the Laotian government. He knows this area well, as it’s already his fifth time doing this trek. Adone is passionate about the jungle and nature. Even on his days off, he goes hunting, fishing, or wanders through the jungle. He will serve as our interpreter, and it’s impressive how polyglot he is: English, Lao, and even the local dialects of the villages we’ll visit.
 
-![Adone](adone.jpg)
+![Adone](adone.jpeg)
 
 **Vincenzo**, an Italian, is a naval doctor in the Italian Navy. Probably the laziest soldier in the world, but also one of the kindest and most gentle people I’ve ever met. An example of calm and compassion. He’s also very funny and learns languages at an impressive speed. He wants to become a psychologist, and I’m sure he’ll be an excellent one. Vincenzo, Eline, and I have all been through challenging times this year. It’s comforting to see that everyone, whether a seasoned military officer or a lively young Belgian woman, has their own struggles.
 
-![Vincenzo](vicenzo.jpg)
+![Vincenzo](vicenzo.jpeg)
 
 **Marguarita aka Poussinet & Pierre**, a newlywed Franco-Armenian couple on their honeymoon, are absolutely adorable. They sneak off to kiss, and it’s incredibly cute. Marguarita is super sweet with a strong personality. I ask her many questions about Armenia, and she paints a wonderful picture of her country. I’d love to visit next year. Pierre, on the other hand, has a calm demeanor but is equally kind and funny.
 
-![Margarita & Pierre](mako_pierre.jpg)
+![Margarita & Pierre](mako_pierre.jpeg)
 
 **Eline** is the one who suggested I join this trek. She’s a lively young Belgian woman with boundless energy, the type to tackle 100-kilometer treks. I met her in Vientiane before my trip to Thailand, and we share plenty of laughs. She’s one of the great connections I’ve made on this journey. She inspires me to keep doing these kinds of activities and meeting new people.
 
-![Eline](eline.jpg)
+![Eline](eline.jpeg)
 
 
 ## First Day
