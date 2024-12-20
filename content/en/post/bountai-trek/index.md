@@ -10,6 +10,8 @@ tags:
     - Lao
 ---
 
+> **Note :** To see more photos from the trek, I recommend checking out my Instagram or Polarstep account. I'm trying not to flood the article with too many photos.
+
 ## Prelude
 
 Departure day for Bountai. I’m in Bangkok, over 1,100 kilometers from my destination, and a long day awaits: a plane, a train, and a bus.
@@ -30,9 +32,9 @@ By evening, my friends finally arrive. We meet up at the village restaurant for 
 
 When it’s time to sleep, I know the night will be short. The beers have left me with quite a headache. But no matter, the night was worth every sip!
 
-![départ à 5h00](bangkok_aeroport.jpg) ![Départ pour Bountai](depart_pour_bountai.jpg) ![un bus (trop) plein](un_bus_plein.jpg) ![morning view](morning_view.jpg)
+![](bangkok_aeroport.jpg) ![](depart_pour_bountai.jpg) ![](un_bus_plein.jpg) ![](morning_view.jpg)
 
-![veille de départ](veille_de_depart.jpg)
+![](veille_de_depart.jpg)
 
 
 ## The Team
@@ -70,6 +72,8 @@ Finally, at the forest’s edge, we reach rice fields that were harvested a few 
 
 As night falls, we finally arrive at the first village, a stilted hamlet with mostly wooden houses. We head to the chief’s house, where we’ll spend the night.
 
+![](1d_lunch.jpg) ![](d1_landscape.jpg) ![](d1_spider.jpg) ![](d1_jungle.jpg)
+
 
 ### The First Night
 
@@ -83,6 +87,10 @@ It’s time to sleep—it must be around 10 p.m. However, the chief invites Vinc
 
 Finally, it’s time to call it a night. We sleep in the main room with the chief and his family—about a dozen of us in total. Tomorrow will be a big day: we’re going FISHING!
 
+![](village.jpg) ![](cuisine.jpg) ![](village2.jpg) ![](girl.jpg)
+
+
+ ![](first_night.jpg) 
 
 ## Second Day
 
@@ -95,6 +103,9 @@ I notice there are many dogs in the village. Their role is rather peculiar: they
 Heading back to the river, we discover the village’s primary source of electricity: small dams. The river’s width is narrowed to increase the flow, powering a propeller connected to a turbine that generates electricity. We also hear music playing from the village, likely powered by a few solar panels scattered here and there.
 
 Breakfast is hearty, consisting of leftovers from the previous night’s meal. Since the first dinner, I’ve been careful to eat more moderately. In fact, one of my goals for this trip is to overcome my addictions, whether to food or the Internet. This morning, they’ve killed a chicken especially for us. It will be prepared for lunch to accompany the fruits of our fishing trip.
+
+![](bed.jpg) ![](morning.jpg) ![](ptitdej.jpg) ![](electricity.jpg)  
+
 
 ### Fishing
 
@@ -110,6 +121,8 @@ Then comes lunch preparation. A fire is lit, and Adone cuts pieces of bamboo to 
 
 I understand why they rarely fall ill: between their constant physical activity and simple but balanced meals, their lifestyle seems well-suited to maintaining health. The life expectancy here is around 75 years, which is relatively high. However, I imagine infant mortality rates are still significant, and dental issues must be common in these remote villages.
 
+![](fish1.jpg) ![](fish2.jpg) ![](fish3.jpg) ![](fish4.jpg)
+
 ### On My Way
 
 After lunch, we bid farewell to the chief and his family, then set off toward the next village. The path, though winding and hilly, is breathtakingly beautiful and pleasant. I truly enjoyed this walk.
@@ -124,6 +137,8 @@ Initially hesitant, we eventually took turns under the jet. It turned into a fun
 
 Alright, let’s go! The village is now just a short half-hour walk away.
 
+![](eline_baptiste.jpg) ![](landscape1.jpg) ![](landscape2.jpg) ![](landscape3.jpg)
+
 ### The Village
 
 We arrive at the village of Pouli Mai, greeted by dozens of curious and smiling children. Unlike the first village, Pouli Mai is much larger, with a population of 630 inhabitants, though it lacks running water. As we make our way through the village, we reach the home of the chief, Atchou, who warmly welcomes us with a glass of boiled water.
@@ -136,6 +151,7 @@ Before bed, we spend some time talking with the chief. He offers the women in ou
 
 It’s time to sleep. It must be around 9 p.m., an early hour for me, but here, village life follows the rhythm of the sun. The night, though short, is pleasant and peaceful.
 
+![](big_village.jpg) ![](cooking.jpg) ![](speaking.jpg) ![](sleeping.jpg)
 
 ## Third Day
 
@@ -149,6 +165,8 @@ We set off again, with a good day of hiking through the magnificent landscapes o
 
 We carry on through the mountains. Everyone remains cheerful and content, I think. After another two hours, we finally reach the rendezvous point with the vehicle that will take us back. Honestly, I would have liked to keep walking to enjoy the view, but the pain in my feet is becoming noticeable, and the injuries within the team don't help. So, we're all quite happy to head back.
 
+![](us.jpg) ![](pierre.jpg) ![](children.jpg) ![](wood_women.jpg)
+
 
 ### At Adone's and the Departure
 
@@ -161,3 +179,5 @@ After a good night’s sleep and breakfast at a restaurant, it's time to say our
 We finally arrive in Muang Xai, just in time for lunch, then head to the station for Luang Prabang. It's time to say goodbye to Vincenzo. Eline, Pierre, Margarita, and I will stay a few more days in Luang Prabang.
 
 And so ends one of the most beautiful adventures of my life, filled with discoveries, hiking, and encounters.
+
+![](chez_adone.jpg) ![](bus.jpg) ![](bus2.jpg) ![](trainstation.jpg)
