@@ -55,6 +55,7 @@ Avant de partir, je vous présente la Team :
 
 ![Eline](eline.jpeg)
 
+
 ## Premier Jour
 
 ### Dans la jungle, terrible jungle...
@@ -69,6 +70,8 @@ Enfin, à la lisière de la forêt, nous atteignons des champs de riz récoltés
 
 À la tombée de la nuit, nous arrivons enfin au premier village, un hameau sur pilotis avec des maisons principalement en bois. Nous nous dirigeons vers la maison du chef, où nous passerons la nuit.
 
+![](1d_lunch.jpg) ![](d1_landscape.jpg) ![](d1_spider.jpg) ![](d1_jungle.jpg)
+
 ### La première nuit
 
 Le village porte le nom de Nam Khoun et le chef s'appelle Boun Mai avec sa femme Lin. Ils nous offrent un thé de bienvenue. Après de brefs échanges de sourires, nous partons à la douche. Naïf que je suis, Adone m'avait fait miroiter pendant la montée une douche bien chaude. Je suis pressé de me décrasser, mais en arrivant à la rivière, je déchante vite : l'eau est glaciale. Je me rends compte que je suis vraiment trop naïf, typiquement un touriste.
@@ -81,6 +84,11 @@ Il est temps de dormir, il doit être 22 h. Cependant, le chef m'invite avec Vin
 
 Enfin, il est temps d’aller au lit. Nous dormons dans la pièce principale avec le chef et sa famille : nous sommes bien une douzaine. Demain est une grosse journée : nous partons à la PÊCHE !
 
+![](village.jpg) ![](cuisine.jpg) ![](village2.jpg) ![](girl.jpg)
+
+
+ ![](first_night.jpg) 
+
 ## Deuxième Jour
 
 ### Le levé
@@ -92,6 +100,8 @@ Je remarque qu’il y a beaucoup de chiens dans le village. À vrai dire, ils jo
 En retournant à la rivière, nous découvrons la principale source d’électricité du village : de petits barrages. La largeur de la rivière est réduite pour augmenter le débit, ce qui alimente une hélice reliée à une turbine qui génère de l’électricité. Nous entendons aussi de la musique venant du village, probablement alimentée par quelques panneaux solaires visibles ici et là.
 
 Le petit-déjeuner est copieux : des restes du repas de la veille. Depuis le premier repas, je fais attention à manger de manière raisonnable. À vrai dire, c’est l’un des objectifs de ce voyage : me débarrasser de mes addictions, que ce soit à la nourriture ou à Internet. Ce matin, ils ont tué une poule spécialement pour nous : elle sera préparée pour le déjeuner, accompagnant les fruits de notre pêche.
+
+![](bed.jpg) ![](morning.jpg) ![](ptitdej.jpg) ![](electricity.jpg)  
 
 ### La pèche
 
@@ -106,6 +116,8 @@ Nous reproduisons le procédé jusqu’à atteindre le croisement des cours d’
 Vient alors la préparation du déjeuner. Un feu est allumé, et Adone coupe des morceaux de bambou qui serviront de vaisselle : verres, brochettes, et même assiettes. Le repas est copieux, accompagné – bien sûr – d’eau de vie.
 
 Je comprends pourquoi ils tombent rarement malades : entre l’effort physique constant et leurs repas simples mais équilibrés, leur mode de vie semble bien réglé. L’espérance de vie ici est de 75 ans, ce qui est plutôt élevé. Mais je suppose que la mortalité infantile reste importante, et les problèmes dentaires doivent être fréquents dans ces villages reculés.
+
+![](fish1.jpg) ![](fish2.jpg) ![](fish3.jpg) ![](bed.jpg)
 
 ### sur ma route, oui...
 
