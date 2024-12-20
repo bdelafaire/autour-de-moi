@@ -41,11 +41,19 @@ Avant de partir, je vous présente la Team :
 
 **Adone**, notre guide local, est journaliste dans la région. Il est chargé de transmettre les nouvelles à Bountai et est rémunéré par le gouvernement laotien. Il connaît bien cette région, c’est déjà la cinquième fois qu’il fait ce trek. Adone est un passionné de jungle et de nature. Même lors de ses jours de repos, il s’adonne à la chasse, à la pêche ou se promène dans la jungle. Il nous servira d’interprète, et c’est impressionnant de voir à quel point il est polyglotte : anglais, lao, et même les dialectes locaux des villages que nous allons traverser.
 
+![Adone](adone.jpeg)
+
 **Vincenzo**, un Italien, est médecin officier dans la marine italienne. Probablement le militaire le plus fainéant du monde, mais aussi l’une des personnes les plus douces et gentilles que j’ai jamais rencontrées. Un exemple de calme et de bienveillance. Il est également très drôle et apprend les langues avec une rapidité qui m’étonne. Il veut devenir psychologue, et je suis sûr qu’il en sera un excellent. Vincenzo, Eline et moi avons traversé des périodes compliquées cette année. C’est rassurant de voir que tout le monde, que ce soit un militaire chevronné ou une jeune femme belge pleine d’énergie, a ses propres démons.
+
+![Vincenzo](vincenzo.jpeg)
 
 **Marguarita alias Mako alias Poussinet & Pierre**, un couple franco-arménien fraîchement marié et en lune de miel, sont adorables. Ils se cachent pour s’embrasser, et c’est trop mignon. Marguarita est super gentille, avec un caractère bien trempé. Je lui pose beaucoup de questions sur l’Arménie, et elle donne une superbe image de son pays. J’aimerais beaucoup y aller l’année prochaine. Pierre, quant à lui, a un tempérament posé, mais il est tout aussi gentil et drôle.
 
+![Margarita & Pierre](mako_pierre.jpeg)
+
 **Eline** est la personne qui m’a proposé de faire ce trek. C’est une jeune femme belge pleine d’énergie, du genre à faire des treks de 100 kilomètres. Je l’ai rencontrée à Vientiane avant mon départ pour la Thaïlande, et on rigole bien ensemble. Elle fait partie des belles rencontres de ce voyage. Elle m’inspire à continuer ce genre d’activités et à aller à la rencontre des gens.
+
+![Eline](eline.jpeg)
 
 ## Premier Jour
 
