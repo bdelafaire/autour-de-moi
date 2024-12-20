@@ -10,7 +10,7 @@ timeout = "1000s"
 ####################################
 ####### MULTILINGUAL SUPPORT #######
 ####################################
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'fr'
 defaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
