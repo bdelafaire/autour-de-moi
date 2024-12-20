@@ -10,6 +10,10 @@ tags:
     - Lao
 ---
 
+> **Note :** Pour voir plus de photos concernant le trek, je vous conseille d'aller voir mon compte insta ou polarstep. J'essaie de ne pas noyer l'article dans les photos
+
+
+
 ## Prelude
 
 Jour de départ pour Bountai. Je suis à Bangkok, à plus de 1100 kilomètres de ma destination, et une longue journée m'attend : un avion, un train, et un bus.
@@ -133,6 +137,8 @@ Un peu hésitants au début, nous finissons par y aller un par un. Ce fut un mom
 
 Allez, c’est reparti ! Direction le village, qui n’est plus qu’à une petite demi-heure de marche.
 
+![](eline_baptiste.jpg) ![](landscape1.jpg) ![](landscape2.jpg) ![](landscape3.jpg)
+
 ### Le village
 
 Nous arrivons au village de Pouli Mai, accueillis par des dizaines d’enfants curieux et souriants. Contrairement au premier village, Pouli Mai est bien plus grand, avec une population de 630 habitants, bien qu’il n’y ait pas d’eau courante. En traversant le village, nous arrivons à la maison du chef, Atchou, qui nous reçoit chaleureusement avec un verre d’eau bouillie.
@@ -144,6 +150,8 @@ Après avoir distribué quelques bonbons aux enfants, il est déjà l’heure de
 Avant de nous coucher, nous passons un moment à échanger avec le chef. Il propose aux femmes de notre groupe d’essayer les tenues traditionnelles portées lors des cérémonies de mariage, ornées d’un bonnet décoré de pièces anciennes. En observant de plus près, nous réalisons qu’il s’agit de pièces datant de l’époque de l’Indochine – une découverte inattendue et fascinante.
 
 Il est temps d’aller dormir. Il doit être environ 21 heures, un horaire tôt pour moi, mais ici, le rythme du village est calqué sur celui du soleil. La nuit, bien que courte, est agréable et paisible.
+
+![](big_village.jpg) ![](cooking.jpg) ![](speaking.jpg) ![](sleeping.jpg)
 
 ## Troisième Jour
 
@@ -157,6 +165,9 @@ Nous reprenons la route, une bonne journée de marche à travers les magnifiques
 
 On continue notre chemin à travers les montagnes. Tout le monde reste souriant et content, je trouve. Après encore deux heures, nous arrivons enfin au point de rendez-vous avec le véhicule qui nous ramène. À vrai dire, j’aurais bien continué à marcher pour profiter de la vue, mais les douleurs aux pieds commencent à se faire sentir, et les blessures dans l’équipe n’aident pas. Du coup, nous sommes plutôt contents de rentrer. 
 
+![](us.jpg) ![](pierre.jpg) ![](children.jpg) ![](wood_women.jpg)
+
+
 ### Chez Adone et le départ
 
 Il nous faut bien 45 minutes pour retourner à Boun Tai. Une fois arrivés à notre destination, chacun est déposé à sa guesthouse. Une bonne douche (si l’eau veut bien suivre !) et direction chez Adone pour le dîner. Nous avons hâte… mais plus d'eau, donc pas de douche.
@@ -168,3 +179,5 @@ Après une bonne nuit de sommeil et un petit déjeuner dans un restaurant, il es
 On arrive tant bien que mal à Muang Xai, le temps d’un déjeuner, puis direction la gare pour Luang Prabang. Il est temps de faire nos adieux à Vincenzo. Eline, Pierre, Margarita et moi resterons quelques jours à Luang Prabang.
 
 C’est ainsi que se conclut l'une des plus belles aventures de ma vie, pleine de découvertes, de marche et de rencontres.
+
+![](chez_adone.jpg) ![](bus.jpg) ![](bus2.jpg) ![](trainstation.jpg)
